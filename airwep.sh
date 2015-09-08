@@ -1,5 +1,5 @@
 #!bin/bash
-#Script ataque WEP con aircrack-ng
+#Script ataque WEP con aircrack-ng un poco cutre ;)
 # Variables globales
 SCRIPT="airwep"
 VERSION="0.1 Public"
